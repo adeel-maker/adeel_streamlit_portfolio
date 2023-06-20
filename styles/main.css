@@ -81,7 +81,7 @@ ul {
   left: -5%;
   top: -5%;
   display: flex;
-  color: #003;
+  color: rgba(0, 0, 51, 0.849);
   align-items: center;
   justify-content: center;
   text-align: center;
